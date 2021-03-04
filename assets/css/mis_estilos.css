@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap");
+
+.frases{
+    font-family: 'Dancing Script', cursive;
+    font-size:1.5rem;
+}
+
+img{
+    width: 100%;
+}
+
+.hobbie1{
+    background-color:#a3d2ca;
+}
+.hobbie2{
+    background-color: #eb5e0b;
+}
+.hobbie3{
+    background-color: #f8f1f1;
+}
+.hobbie4{
+    background-color: #5eaaa8;
+}
+
+.hobbie_title{
+    color:black;
+}
+
+.hobbie_text{
+    color:white;
+    text-decoration: none;
+}
+
+.mis_img{
+    height: 200px;
+}
